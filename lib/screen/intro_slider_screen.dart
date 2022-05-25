@@ -1,4 +1,4 @@
-import 'package:earth_cna/tip.dart';
+import 'package:earth_cna/main.dart';
 import 'package:flutter/material.dart';
 import 'package:intro_views_flutter/intro_views_flutter.dart';
 import 'package:earth_cna/introduction_pages/introduction_pages.dart';
@@ -18,7 +18,7 @@ class AnimatedIntroductionSlider extends StatelessWidget {
         builder: (context) => IntroViewsFlutter(
           pages,
           onTapDoneButton: () {
-            Navigator.of(context).pushReplacementNamed('/tips');
+            Navigator.of(context).pushReplacementNamed('/main');
             //다음 화면 넣을 공간
           },
           pageButtonTextStyles:const TextStyle(
@@ -29,7 +29,7 @@ class AnimatedIntroductionSlider extends StatelessWidget {
 
       ), //Builder
       routes: <String,WidgetBuilder> {
-        '/tips':(BuildContext context)=>new Tips()		//팁 페이지로 넘어가기!
+        '/main':(BuildContext context)=>new MyApp()		//메인 페이지로 넘어가기!
       },
     ); //Material App
   }

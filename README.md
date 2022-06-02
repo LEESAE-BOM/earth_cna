@@ -3,5 +3,5 @@
 종합프로젝트 2 1팀
 
 ## Getting Started
-시연영상 : https://github.com/LEESAE-BOM/earth_cna
+시연영상 : https://youtu.be/hM5v4kD-ajk
 

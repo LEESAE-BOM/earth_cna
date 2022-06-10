@@ -1,7 +1,8 @@
 # earth_cna
 
-종합프로젝트 2 1팀
-
+종합프로젝트 2 1팀(서정윤, 이새봄, 조영은)
+탄소중립을 위한 AI기반 ESG추천 챗봇을 주제로 프로젝트를 진행하였습니다.
+ 
 
 <img width="580" alt="image" src="https://user-images.githubusercontent.com/70834586/173033802-7cc6eb2d-322a-4113-87f0-a722ea2b6d16.png">
 <img width="586" alt="image" src="https://user-images.githubusercontent.com/70834586/173033828-79d5f6b1-7493-4a47-82cb-589ef2ebfe24.png">
